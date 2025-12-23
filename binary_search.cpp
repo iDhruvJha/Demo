@@ -19,6 +19,9 @@ int arr(int nums[], int size , int key){
     }
     return -1;
 }
+void bubblesort(){
+    //
+}
 int main(){
 
     int nums[8] = {4,6,7,17,45,66,85,89};

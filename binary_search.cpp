@@ -80,3 +80,4 @@ int main(){
 
 // ki haal chal yau
 // dusri baar comment file me kr rha hu desktop pe nhi
+// teesri baar comment file me hi not desk

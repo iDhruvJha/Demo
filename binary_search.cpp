@@ -74,3 +74,8 @@ int main(){
     vector<int> arr ;
     quickSort(arr,0,8) ;
 }
+
+
+
+
+// ki haal chal yau
